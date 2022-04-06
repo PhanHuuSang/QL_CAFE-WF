@@ -1,0 +1,590 @@
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csprojAssemblyReference.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.xml
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csprojAssemblyReference.cache
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.xml
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EnvDTE.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\stdole.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\RdlCompile.cache
+C:\Users\sangk\Desktop\Do An\ANH\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\RdlCompile.compiled
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EnvDTE.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\stdole.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.xml
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csprojAssemblyReference.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\RdlCompile.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\RdlCompile.compiled
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\DOAN_QUANLYCAFE\DOAN_QUANLYCAFE\QL_CAFE\QL_CAFE\obj\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\EnvDTE.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\stdole.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.xml
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csprojAssemblyReference.cache
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\Do An\ANH\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQLSanPham.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csprojAssemblyReference.cache
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQLSanPham.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\EnvDTE.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\stdole.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.xml
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\RdlCompile.cache
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\RdlCompile.compiled
+C:\Users\sangk\Desktop\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmBaoCaoHD.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.pdb
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EnvDTE.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\stdole.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.xml
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csprojAssemblyReference.cache
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmBaoCaoHD.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQLSanPham.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\RdlCompile.cache
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\RdlCompile.compiled
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.exe
+C:\Users\sangk\Desktop\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.pdb
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\x86\leptonica-1.80.0.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\x86\tesseract41.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\x64\leptonica-1.80.0.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\x64\tesseract41.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.pdb
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Tesseract.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EnvDTE.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\stdole.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.xml
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.AssemblyReference.cache
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmBaoCaoHD.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQLSanPham.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.exe
+E:\DOAN_QUANLYCAFE\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.pdb
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\x86\leptonica-1.80.0.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\x86\tesseract41.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\x64\leptonica-1.80.0.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\x64\tesseract41.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe.config
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.exe
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\QL_CAFE.pdb
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Tesseract.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\EnvDTE.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\stdole.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\Microsoft.MSXML.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.xml
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\EntityFramework.SqlServer.xml
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.AssemblyReference.cache
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmBaoCaoHD.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmDangNhap.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmInHoaDon.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmMain.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQLSanPham.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmQuanLyNhanVien.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.frmThongTinTaiKhoan.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.Properties.Resources.resources
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.GenerateResource.cache
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CoreCompileInputs.cache
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.csproj.CopyComplete
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.exe
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\QL_CAFE.pdb
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\RdlCompile.cache
+E:\DO AN\DO AN WINFORM\QL_CAFE_XIN\QL_CAFE\obj\Debug\RdlCompile.compiled
